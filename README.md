@@ -4,30 +4,11 @@ Advent of Code 2018 solutions, mostly in Python.
 
 ### Progress:
 
-Level | Part 1 | Part 2
------------- | -------------| -------------
-Day 1 | :star: | :star: |
-Day 2 | :star: | :star: |
-Day 3 | :star: | :star: |
-Day 4 | :star: | :star: |
-Day 5 | :star: | :star: |
-Day 6 | :star: | :star: |
-Day 7 | :star: | :star: |
-Day 8 | :star: | :star: |
-Day 9 | | |
-Day 10 | | |
-Day 11 | | |
-Day 12 | | |
-Day 13 | | |
-Day 14 | | |
-Day 15 | | |
-Day 16 | | |
-Day 17 | | |
-Day 18 | | |
-Day 19 | | |
-Day 20 | | |
-Day 21 | | |
-Day 22 | | |
-Day 23 | | |
-Day 24 | | |
-Day 25 | | |
+Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday
+------- | -------| ------- | ------- | -------| -------| -------
+  |  |   |   |  |  | **1**  :star::star:
+ **2** :star::star: | **3**  :star::star:  | **4**  :star::star:  | **5**  :star::star: | **6**  :star::star: | **7**  :star::star:  | **8**  :star::star: 
+ **9** | **10** | **11** | **12**  | **13** | **14** | **15** 
+ **16** | **17** | **18** | **19** | **20** | **21** | **22**  
+ **23** | **24** | :christmas_tree: | **26** | **27** | **28** | **29** 
+ **30** | **31** |   |   |   |   |   
