@@ -5,6 +5,10 @@
 # Consider larger index to be clockwise.
 # lower index is counter-clockwise.
 
+# Inserts on lists are O(N) so part two takes upwards of an hour...
+# The much faster method would be to use a double-ended queue with rotations
+# Such as deque from Collections
+
 def marbleGame(marbles, players):
     marbles = [0]
     current_index = 0
@@ -26,4 +30,4 @@ def marbleGame(marbles, players):
     return max(scores.values())
 
 print("Part 1: ", marbleGame(71058, 491))
-print("Part 1: ", marbleGame(7105800, 491))
+print("Part 2: ", marbleGame(7105800, 491))
