@@ -20,7 +20,7 @@ def render_points(points):
     x_min = min([point[0] for point in points])
     canvas  = [[" " for i in range(x_width+1)] for i in range(y_height+1)]
     for point in points:
-        canvas[point[1] - y_min][point[0] - x_min] = "#"
+        canvas[point[1] - y_min][point[0] - x_min] = "@"
     print("\n")
     for row in canvas:
         print("".join([i for i in row]))
