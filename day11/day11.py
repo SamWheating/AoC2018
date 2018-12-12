@@ -30,7 +30,7 @@ max_power = 0
 for i in range(300):
     for j in range(300):
         sum_power = 0
-        max_size = min([300-i, 300-j])
+        max_size = min([40, 300-i, 300-j])
         for size in range(max_size):
             sum_power = sum([sum(row[i:i+size]) for row in fuel_cells[j:j+size]])
             if sum_power > max_power:
